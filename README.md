@@ -1,4 +1,4 @@
-# Uwe Uwe (u²) Documentation
+# Uwe Uwe (u²) Example
 
 This is an example site build with Hugo and the [Uwe Uwe (u²) Hugo theme](https://github.com/mbrt-yeah/uwe-uwe-hugo).
 
